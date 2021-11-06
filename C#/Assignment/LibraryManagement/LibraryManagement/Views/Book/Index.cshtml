@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LibraryManagement.Models.Book>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Books At Glance</h2>
+<p>"Knowledge is Power"</p>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BookName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BookAvailable)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.BookName)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Author)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.BookAvailable)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Stock)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.BookId }) |
+        @Html.ActionLink("Details", "Details", new { id = item.BookId }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.BookId })
+    </td>
+</tr>
+}
+
+</table>
+<strong><small>Books With Stock 0 May or May Not be Available in Future.</small></strong>

@@ -1,0 +1,7 @@
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\bin\Debug\AssignmentSheet1.exe.config
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\bin\Debug\AssignmentSheet1.exe
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\bin\Debug\AssignmentSheet1.pdb
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\obj\Debug\AssignmentSheet1.csproj.AssemblyReference.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\obj\Debug\AssignmentSheet1.csproj.CoreCompileInputs.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\obj\Debug\AssignmentSheet1.exe
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\AssignmentSheet1\AssignmentSheet1\obj\Debug\AssignmentSheet1.pdb

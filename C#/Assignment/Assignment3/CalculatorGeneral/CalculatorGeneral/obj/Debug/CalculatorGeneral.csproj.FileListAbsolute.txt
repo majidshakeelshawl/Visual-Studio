@@ -1,0 +1,10 @@
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\bin\Debug\CalculatorGeneral.exe.config
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\bin\Debug\CalculatorGeneral.exe
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\bin\Debug\CalculatorGeneral.pdb
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\CalculatorGeneral.csproj.AssemblyReference.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\Calculator.Form1.resources
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\CalculatorGeneral.Properties.Resources.resources
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\CalculatorGeneral.csproj.GenerateResource.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\CalculatorGeneral.csproj.CoreCompileInputs.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\CalculatorGeneral.exe
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3\CalculatorGeneral\CalculatorGeneral\obj\Debug\CalculatorGeneral.pdb

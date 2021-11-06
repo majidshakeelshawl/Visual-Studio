@@ -1,0 +1,10 @@
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe.config
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\bin\Debug\NewCalculator.exe
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\bin\Debug\NewCalculator.pdb
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.AssemblyReference.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\NewCalculator.Properties.Resources.resources
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.GenerateResource.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\NewCalculator.csproj.CoreCompileInputs.cache
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\NewCalculator.exe
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\NewCalculator.pdb
+C:\Users\majid\Documents\Visual Studio\C#\Assignment\Assignment3.1\NewCalculator\NewCalculator\obj\Debug\CaclulatorDemo.Form1.resources
